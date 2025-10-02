@@ -98,15 +98,15 @@ You need a C++ compiler installed on your machine. The most common is **g++**, w
 
 1.  **Clone the repository (replace with your actual repo URL):**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/your-username/your-repo-name](https://github.com/sharma-bhupesh/Banking-ATM-Software.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
     cd your-repo-name
     ```
-3.  **Compile the code (assuming the file is named `main.cpp`):**
+3.  **Compile the code (assuming the file is named `bank.cpp`):**
     ```sh
-    g++ main.cpp -o atm
+    g++ bank.cpp -o atm
     ```
 4.  **Run the application:**
     ```sh
